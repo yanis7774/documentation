@@ -1,7 +1,10 @@
-.vendor
-vendor
-node_modules
-.sass-cache/**
-_site
-.jekyll-metadata
-.DS_Store
+# File konfigurasi IDE
+# ---------------------
+/nbproject/
+.idea/*
+# File cache Sublime Text
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
